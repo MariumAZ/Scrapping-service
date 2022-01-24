@@ -1,4 +1,4 @@
-from operator import imod
+
 from fastapi import FastAPI
 from scraper import Scraper
 app = FastAPI()
